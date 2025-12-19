@@ -1,2 +1,3 @@
 # YouTubevideosummarizer
-YouTube video summarizer
+streamlit
+youtube-transcript-api
